@@ -17,7 +17,7 @@ for documentos in lista_documentos:
          else:
              os.rename(f"C:\\Users\\DBA_Nanda\\Desktop\\python\\PASTA\\documentos\\{documentos}", f"C:\\Users\\DBA_Nanda\\Desktop\\python\\PASTA\\documentos\\powerpoint\\{documentos}")
 
-
+#modificando
 
 
 
