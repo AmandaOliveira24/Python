@@ -22,3 +22,5 @@ time.sleep(2)
 pyautogui.click(x=1182, y=261)
 time.sleep(2)
 pyautogui.click(x=1218, y=435)
+
+#modificando 
