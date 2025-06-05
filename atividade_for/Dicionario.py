@@ -87,7 +87,7 @@ for produto in meus_produtos:
     print(meus_produtos)
 
 
-
+#modificando para outra ativbidade
 
 
 
