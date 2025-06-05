@@ -24,3 +24,4 @@ time.sleep(2)
 pyautogui.click(x=1218, y=435)
 
 #modificando 
+#Modificando para outra atividade
